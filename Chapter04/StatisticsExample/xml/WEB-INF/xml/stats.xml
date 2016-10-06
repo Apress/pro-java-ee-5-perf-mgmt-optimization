@@ -1,0 +1,3 @@
+<weblogic-stats>
+  <admin-server port="7001" username="weblogic" password="weblogic" />
+</weblogic-stats>
